@@ -1,0 +1,8 @@
+{
+  "name": "simple-multibranch-repo",
+  "version": "1.0.0",
+  "description": "A simple repo for Jenkins Multibranch Pipeline",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
